@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">News</string>
+
+    <!-- Menu -->
+    <string name="menu_news">News</string>
+
+    <!-- Headline & Meta -->
+    <string name="news_title">Mengenal Kampanye “Brave Pink Hero Green” yang Ramai di Media Sosial</string>
+    <string name="news_meta">3 September 2025  |  Politik &amp; Warganet</string>
+
+    <!-- Subheads -->
+    <string name="sub_latar_belakang">Latar Belakang</string>
+    <string name="sub_tokoh">Tokoh &amp; Simbol</string>
+    <string name="sub_makna">Makna &amp; Respons Publik</string>
+    <string name="sub_cara_pakai">Cara Pakai Generator</string>
+
+    <!-- Body -->
+    <string name="p1">Dalam beberapa hari terakhir, linimasa Indonesia dipenuhi avatar beraksen merah muda dan hijau. Warganet menyebutnya “Brave Pink Hero Green”, sebuah cara serempak menunjukkan posisi terhadap isu publik yang sedang ramai diperbincangkan.</string>
+    <string name="p2">Format kampanye visual ini sederhana: foto profil diberi dua bidang warna kontras. Kemudahan teknis dan keserempakan tampilan membuatnya cepat menyebar lintas platform, dari aplikasi pesan hingga media sosial arus utama.</string>
+    <string name="p3">Di balik tren tersebut, beredar generator yang memudahkan siapa pun menambahkan overlay warna pada foto. Sejumlah kreator dan pegiat digital ikut mendorong penyebaran, menjelaskan konteks serta ajakan berpartisipasi secara damai.</string>
+    <string name="p4">Warna merah muda kerap diasosiasikan dengan keberanian figur—khususnya peran domestik yang bersuara lantang di ruang publik—sedangkan hijau dilihat sebagai penanda keteguhan dan harapan. Kombinasi keduanya membentuk simbol solidaritas yang mudah dikenali.</string>
+    <string name="p5">Bagi banyak orang, mengganti foto profil menjadi cara ekspresi berbiaya rendah: tidak menuntut hadir di jalan, namun tetap terlihat oleh jejaring. Efeknya adalah percakapan yang meluas, mendorong orang lain mencari tahu duduk perkara isu yang sedang berlangsung.</string>
+    <string name="p6">Ada pula kritik: gestur simbolik dianggap terlalu dangkal jika tak diikuti langkah nyata. Namun, pengamat komunikasi menyebut aksi digital semacam ini kerap berfungsi sebagai “pintu masuk”, yang kemudian mengarahkan publik pada donasi, edukasi isu, atau advokasi kebijakan.</string>
+    <string name="p7">Fenomena avatar berwarna bukan hal baru. Di masa lalu, berbagai gerakan memanfaatkan ragam ikon—dari pita, minuman, hingga buah—untuk menandai afiliasi. Polanya sama: simbol sederhana, mudah direplikasi, dan efektif menegaskan keberpihakan.</string>
+    <string name="p8">Pada akhirnya, kampanye “Brave Pink Hero Green” menunjukkan bagaimana warga memanfaatkan perangkat sehari-hari untuk berpendapat. Entah disepakati atau tidak, gelombang partisipasi digital ini menandakan ruang politik yang kian terbuka dalam keseharian warganet.</string>
+
+    <!-- How-to -->
+    <string name="howto_1">Buka laman generator warna di peramban.</string>
+    <string name="howto_2">Unggah foto profil yang ingin diberi overlay.</string>
+    <string name="howto_3">Atur posisi dan intensitas kedua warna hingga proporsional.</string>
+    <string name="howto_4">Unduh hasilnya, lalu pakai sebagai foto profil.</string>
+
+    <!-- Caption & Source -->
+    <string name="img_source">Sumber bacaan: Tempo – “Makna Brave Pink Hero Green yang Viral di Media Sosial” (tautan: https://www.tempo.co/politik/makna-brave-pink-hero-green-yang-viral-di-media-sosial-2066471). Konten pada aplikasi ini diparafrasekan untuk tujuan pembelajaran.</string>
+
+    <!-- Button -->
+    <string name="prev">Sebelumnya</string>
+    <string name="next">Selanjutnya</string>
+</resources>

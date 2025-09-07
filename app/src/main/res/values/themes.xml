@@ -1,0 +1,12 @@
+<resources>
+    <style name="Theme.News" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Brand -->
+        <item name="colorPrimary">@color/teal_600</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <!-- Surface -->
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+    </style>
+</resources>
