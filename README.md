@@ -6,7 +6,7 @@ Aplikasi menampilkan artikel berita, hero image, subjudul, paragraf, sumber baca
 ---
 
 ## 📂 Link Repository Tugas
-[(https://github.com/zerosuum/News)]
+(https://github.com/zerosuum/News)
 
 ---
 
